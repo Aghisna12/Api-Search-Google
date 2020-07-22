@@ -1,3 +1,10 @@
+/**
+* Project Name : Google Search
+* File Name : Coba2.gs
+* Date : 22/7/2020 (8 am) (Yogyakarta, Indonesia)
+* Credit : Aghisna12
+*/
+
 function buatParam(query) {
   var hasil = [];
   if (query) {
